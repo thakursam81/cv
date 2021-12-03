@@ -1,0 +1,18 @@
+
+body {
+  background-color: #31666a;
+  color: #1beaea;
+}
+
+hr {
+  border-color: lightgrey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 4%;
+  margin-top: 300px;
+}
+.under{
+   text-decoration-line: underline;
+   text-underline-position: under;
+}
